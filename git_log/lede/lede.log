@@ -1,6 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-2029a1123|Hauke Mehrtens|Wed Sep 17 19:55:50 2025 +0200|openssl: backport fix regression
-</details>
